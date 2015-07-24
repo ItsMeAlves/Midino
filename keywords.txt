@@ -1,0 +1,6 @@
+Midino  KEYWORD2
+MIDI KEYWORD1
+noteOn KEYWORD2
+notePause KEYWORD2
+changeSetup KEYWORD2
+begin KEYWORD2
